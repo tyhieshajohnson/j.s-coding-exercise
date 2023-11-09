@@ -6,6 +6,7 @@ let concatenatedName = myName + mySurname;
 console.log(concatenatedName);
 //Declare another variable with the name numberVar and the value being 5.
 let numberVar = 5;
+console.log(numberVar);
 //Type in the console numberVar * 5. What is the output?
 console.log(numberVar*5);
 //Create a constant with the value as your name. Try to reassign the value with your surname. Did you get an error?
